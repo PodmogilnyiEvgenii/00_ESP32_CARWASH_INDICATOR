@@ -2,12 +2,8 @@ YOUTUBE
 
 Основные возможности:
 
-https://www.youtube.com/watch?v=nLMuX8Y_BYw
-
-Основные экраны:
-
-https://www.youtube.com/watch?v=MS5WwE3wyOs
+https://youtu.be/yxBmIuI47t4
 
 С новым годом!
 
-https://www.youtube.com/watch?v=tuTsORpATSg
+https://youtu.be/tuTsORpATSg
