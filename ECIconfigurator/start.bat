@@ -1,1 +1,0 @@
-java -jar ECIconfigurator.jar
